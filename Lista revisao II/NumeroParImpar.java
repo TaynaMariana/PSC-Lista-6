@@ -10,7 +10,7 @@ public class NumeroParImpar{
         numero = scanner.nextInt();
 
         if(numero %2 == 0){
-            System.out.println("Númro par");
+            System.out.println("Número par");
         }
         else{
             System.out.println("Número impar");
